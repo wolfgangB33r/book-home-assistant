@@ -1,0 +1,8 @@
+{
+    "domain": "stock_sensor",
+    "name": "Stock Sensor",
+    "documentation": "Sensor for loading current stock values from www.alphavantage.co",
+    "dependencies": [],
+    "codeowners": [],
+    "requirements": []
+  }
